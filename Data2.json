@@ -14,5 +14,13 @@
         "home" : "08946 000000",
         "mobile" : "0000000000"
     }
+    },
+    {
+    "name" : "Wilom", 
+    "email" : "wilom.pradumansyah@gmail.com",
+    "phone" : {
+        "home" : "0274 00000",
+        "mobile" : "0818 0600 9656"
+    }
     }
 ]
